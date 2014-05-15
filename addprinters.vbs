@@ -1,3 +1,4 @@
+' Taha Al-jumaily
 Set wshNetwork = CreateObject( "WScript.Network" )
 On Error Resume Next
 
