@@ -1,3 +1,5 @@
+' Taha Al-jumaily
+
 On Error Resume Next
 Dim Network: Set Network = WScript.CreateObject("WScript.Network")
 Dim CheckDrive: Set CheckDrive = Network.EnumNetworkDrives()
